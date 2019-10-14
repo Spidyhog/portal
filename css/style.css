@@ -105,22 +105,22 @@ form button[type=submit] {
 
 .heading{
 	font-family: my1;
-	font-size: 102px;
-	top: 4vh;
-	left: 15vw; 
-	display: inline-flex;
+  font-size: 102px;
+  align-self: center;
+  display: flex;
+  text-align: center;
+  margin: 0em;
+  padding: 1em 0em 1em 0em;
 	justify-content: center;
 	align-content: center;
 	color: white;
-	position: relative;
+  position: relative;  
 }
 
 .f1 {
-				display: 	inline-flex;
-				justify-content: 	center;
-				align-content: center;
-				margin-top: 20px;
-margin-left:600px;
+  display: flex;
+  align-self: center;
+  justify-self: center;
 }
 @font-face
 {
